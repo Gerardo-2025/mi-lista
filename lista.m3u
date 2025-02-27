@@ -57,7 +57,7 @@ http://simplesolutions123.com:2999/Dawn01/Home123/9728
 http://simplesolutions123.com:2999/Dawn01/Home123/9729
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="EL SALVADOR",ESPN 4
-http://bantel-cdn1.iptvperu.tv:1935/cdnwen/Espn4.stream/playlist.m3u8
+http://181.78.105.146:6060/play/a05p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png" group-title="EL SALVADOR",ESPN 5
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn5/playlist.m3u8
