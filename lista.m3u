@@ -30,7 +30,7 @@ https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/inde
 https://stream.giostreaming.net:19360/canal11/canal11.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CANAL_12_2023_VA_CON_VOS.png/640px-CANAL_12_2023_VA_CON_VOS.png" group-title="EL SALVADOR", CANAL 12 SV
-http://45.167.3.81:45000/play/a02c/index.m3u8
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Canal-19-El-Salvador-en-vivo-Online.png" group-title="EL SALVADOR", CANAL 19 SV
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
@@ -82,6 +82,9 @@ http://181.78.106.127:9000/play/ca031/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="EL SALVADOR",FOX SPORTS 2 
 http://181.78.106.127:9000/play/ca032/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="EL SALVADOR",FOX DEPORTES ESPAÑOL
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="MEXICO",TUDN MX
 http://2.00322.xyz:8000/live/jieseialberto/2048763/145458.m3u8
